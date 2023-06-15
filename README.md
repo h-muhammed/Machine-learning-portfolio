@@ -1,2 +1,2 @@
-# Machine-learning-scratch-
-Implementing all the classical machine learning model in python.
+# Machine Learning from Scratch
+Implementing all the classical machine learning models in Python.
