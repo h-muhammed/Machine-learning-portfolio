@@ -9,20 +9,20 @@ Implementing all the classical machine learning model in python. Linking some pe
 - [personal-machine-learning-projects ![Deep Learning Models](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#personal-machine-learning-projects)
   - [ukiyoe-generator](#ukiyoe-generator)
 
-### Implementing Deep Learning Model
+### Deep Learning
 <!-- MarkdownTOC depth=4 -->
 
-- [Deep Learning Models ![Deep Learning Models](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-)
+- [Implementing Deep Learning Models ![Deep Learning Models](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-)
   - [Table of Contents](#table-of-contents)
     - [Supervised Learning](#frameworks-and-libraries)
         - [Linear Regression](#frameworks-and-libraries)
         - [Logistic Regression](#frameworks-and-libraries)
         - [SVM](#frameworks-and-libraries)
 
-### Implementing Classical Machine Learning Models
+### Classical Machine Learning 
 <!-- MarkdownTOC depth=4 -->
 
-- [Classical Machine Learning Models ![Models Implementation](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-)
+- [Implementing Classical Machine Learning Models ![Models Implementation](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-)
   - [Table of Contents](#table-of-contents)
     - [Supervised Learning](#frameworks-and-libraries)
         - [Linear Regression](#frameworks-and-libraries)
