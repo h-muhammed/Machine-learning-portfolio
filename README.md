@@ -1,18 +1,13 @@
 # Personal Machine-learning Projects and Expertise
-Implementing all the classical machine learning model in python.
+Implementing all the classical machine learning model in python. Linking some personal computer vision and natural language projects.
 
 
 ### Machine Learning Projects
 <!-- MarkdownTOC depth=4 -->
 
-- [Deep Learning Models ![Deep Learning Models](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-)
-  - [Table of Contents](#table-of-contents)
-    - [Computer Vision](#frameworks-and-libraries)
-        - [CNN](#frameworks-and-libraries)
-    - [NLP]
-        - [RNN](#frameworks-and-libraries)
-        - [LSTM](#frameworks-and-libraries)
-
+- [personal-machine-learning-projects ![Deep Learning Models](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#personal-machine-learning-projects)
+  - [ukiyoe-generator](#ukiyoe-generator)
+        
 ## Table of Contents
 
 ### Implementing Deep Learning Model
@@ -51,3 +46,8 @@ Implementing all the classical machine learning model in python.
 - [Frameworks and Libraries ![Frameworks](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-)
   - [Table of Contents](#table-of-contents)
     - [Frameworks and Libraries](#frameworks-and-libraries)
+
+## personal-machine-learning-projects
+<!-- MarkdownTOC depth=4 -->
+
+  - [ukiyoe-generator](https://github.com/h-muhammed/ukiyoe_generator)
