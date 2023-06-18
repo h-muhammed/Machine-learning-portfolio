@@ -42,14 +42,13 @@ Implementing all the classical machine learning model in python. Linking some pe
 ### Frameworks and Libraries
 <!-- MarkdownTOC depth=4 -->
 
-- [Frameworks and Libraries ![Frameworks](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-)
-  - [Frameworks and Libraries](#frameworks-and-libraries)
-    - [Pytorch]
-    - [Pandas]
-    - [Numpy]
-    - [Visdom]
-    - [tensorborad]
-    - [matplotlib]
+- [ML Frameworks and Libraries ![Frameworks](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-)
+  - [Pytorch](https://github.com/h-muhammed/pytorch-2.0-mastery/tree/feature/quick-start)
+  - [Pandas]
+  - [Numpy]
+  - [Visdom]
+  - [tensorborad]
+  - [matplotlib]
 
 ## personal-machine-learning-projects
 <!-- MarkdownTOC depth=4 -->
