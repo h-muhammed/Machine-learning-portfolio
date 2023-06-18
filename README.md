@@ -3,13 +3,13 @@ Implementing all the classical machine learning model in python. Linking some pe
 
 ## Table of Contents
 
-### Machine Learning Projects
+#### Machine Learning Projects
 <!-- MarkdownTOC depth=4 -->
 
 - [personal-machine-learning-projects ![Deep Learning Models](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#personal-machine-learning-projects)
   - [ukiyoe-generator](#ukiyoe-generator)
 
-### Deep Learning
+#### Deep Learning
 <!-- MarkdownTOC depth=4 -->
 
 - [Implementing Deep Learning Models ![Deep Learning Models](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-)
@@ -19,7 +19,7 @@ Implementing all the classical machine learning model in python. Linking some pe
         - [Logistic Regression](#frameworks-and-libraries)
         - [SVM](#frameworks-and-libraries)
 
-### Classical Machine Learning 
+#### Classical Machine Learning 
 <!-- MarkdownTOC depth=4 -->
 
 - [Implementing Classical Machine Learning Models ![Models Implementation](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-)
@@ -39,7 +39,7 @@ Implementing all the classical machine learning model in python. Linking some pe
     - [Reinforcement Learning](#frameworks-and-libraries)
         - [Q-Learning](#frameworks-and-libraries)
 
-### Frameworks and Libraries
+#### Frameworks and Libraries
 <!-- MarkdownTOC depth=4 -->
 
 - [ML Frameworks and Libraries ![Frameworks](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-machine-learning-)
@@ -50,7 +50,7 @@ Implementing all the classical machine learning model in python. Linking some pe
   - [tensorborad]
   - [matplotlib]
 
-## personal-machine-learning-projects
+### personal-machine-learning-projects
 <!-- MarkdownTOC depth=4 -->
 
   - [ukiyoe-generator](https://github.com/h-muhammed/ukiyoe_generator)
