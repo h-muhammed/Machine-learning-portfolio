@@ -1,13 +1,15 @@
 # Personal Machine-learning Projects and Expertise
 Implementing all the classical machine learning model in python. Linking some personal computer vision and natural language projects.
 
-## Table of Contents
+## PROJECTS
 
 #### Machine Learning Projects
 <!-- MarkdownTOC depth=4 -->
 
 - [personal-machine-learning-projects ![Deep Learning Models](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#personal-machine-learning-projects)
   - [ukiyoe-generator](#personal-machine-learning-projects)
+
+## EXPERTISE
 
 #### Deep Learning
 <!-- MarkdownTOC depth=4 -->
