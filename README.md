@@ -8,6 +8,7 @@ Implementing all the classical machine learning model in python. Linking some pe
 
 - [personal-machine-learning-projects ![Deep Learning Models](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#personal-machine-learning-projects)
   - [ukiyoe-generator](#personal-machine-learning-projects)
+  - [Bengali-Name-Entity-Recognition](#personal-machine-learning-projects)
 
 ## EXPERTISE
 
@@ -56,6 +57,7 @@ Implementing all the classical machine learning model in python. Linking some pe
 <!-- MarkdownTOC depth=4 -->
 
   - [ukiyoe-generator](https://github.com/h-muhammed/ukiyoe_generator)
+  - [Bengali-Name-Entity-Recognition](https://github.com/h-muhammed/hisab_ner)
 
 ### Implementing Classical Machine Learning Models
 <!-- MarkdownTOC depth=4 -->
